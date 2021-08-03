@@ -1,5 +1,5 @@
 - Hi, I’m nada aldausari
-- I’m interested in data analysis,database 
+- I’m interested in data analysis,database and datamining. 
 
 
 <!---
